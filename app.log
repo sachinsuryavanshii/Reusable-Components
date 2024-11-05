@@ -1,0 +1,6 @@
+{"level":"info","message":"Server is running on http://localhost:3000"}
+{"level":"info","message":"User created: John Doe"}
+{"level":"info","message":"User created: sachin "}
+{"level":"info","message":"User created: sachin "}
+{"level":"error","message":"Invalid email"}
+{"level":"info","message":"User created: sachin"}
